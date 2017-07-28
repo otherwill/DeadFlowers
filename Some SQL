@@ -1,0 +1,29 @@
+# some SQL querries that actually worked
+select songs.song_called, performances.*
+From performances INNER JOIN songs
+ON performances.song_id = songs.song_id;
+
+# ok now try to count songs ... YES!
+select songs.song_called, count(song_called)
+From performances INNER JOIN songs
+ON performances.song_id = songs.song_id
+GROUP BY song_called ORDER BY count(song_id);
+
+#as one line
+SELECT songs.song_called count(song_called) From performances INNER JOIN songs ON performances.song_id = songs.song_id GROUP BY song_called ORDER BY count(song_caled);
+
+# and with the 'dot' commands to produce a file for excel
+sqlite> .mode csv
+sqlite> .output 'song_count.csv'
+sqlite> SELECT songs.song_called, count(song_called) From performances INNER JOIN songs ON performances.song_id = songs.song_id GROUP BY song_called ORDER BY count(songs.song_id);
+sqlite> .output
+
+
+# now where there is only one?
+# couldnt get it but did dump the above ordered by count to a list which
+# is fine ...
+
+# what show had 5 sets?
+# USING does not seem to work but ON does ...
+select * from performances INNER JOIN shows ON performances.show_id = shows.show_id WHERE performances.track = 5;
+480|199|5|480|12/31/78|Winterland Arena|San Francisco, CA

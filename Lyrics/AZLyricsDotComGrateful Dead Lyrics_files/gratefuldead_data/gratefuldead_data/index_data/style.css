@@ -1,0 +1,77 @@
+html {
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+body {
+	background-color: #fff;
+	margin: 0px;
+}
+#maincontainer {
+	position: relative;
+	width: 728px;
+	height: 90px;
+	background-color: #170939;
+	border: 1px solid #666666;
+	overflow: hidden;
+	cursor: pointer;
+}
+#img1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	opacity: 1;
+}
+
+#logo {
+	position: absolute;
+	top: 10px;
+	left: 588px;
+	opacity: 1;
+	z-index: 1;
+}
+
+#box {
+	position: absolute;
+	width: 210px;
+	height: 90px;
+	left: 0px;
+	top: 0px;
+	background: #170939;
+	opacity: 1;
+}
+
+#safety_pays {
+	position: absolute;
+	left: 218px;
+	top: 28px;
+	opacity: 0;
+}
+
+#f2t1 {
+	position: absolute;
+	left: 29px;
+	top: 8px;
+	opacity: 0;
+}
+
+#f2t2 {
+	position: absolute;
+	left: 29px;
+	top: 27px;
+	opacity: 0;
+}
+
+#legal {
+	position: absolute;
+	left: 29px;
+	top: 60px;
+	opacity: 0;
+}
+
+#fpo {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}

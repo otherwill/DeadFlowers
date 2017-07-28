@@ -1,0 +1,515 @@
+venue,city,count(*)
+2,"Buckeye Lake, Hebron, OH",1
+2,"Cal Expo, Sacramento, CA",3
+2,"Capitol Centre, Landover, MD",2
+2,"Charlotte Coliseum, Charlotte, NC",2
+2,"Compton Terrace, Tempe, AZ",2
+2,"Copps Coliseum, Hamilton, ON",2
+2,"Deer Creek, Noblesville, IN",2
+2,"Giants Stadium, East Rutherford, NJ",2
+2,"Hampton Coliseum, Hampton, VA",2
+2,"Knickerbocker Arena, Albany, NY",2
+2,"McNichols Arena, Denver, CO",2
+2,"Nassau Coliseum, Uniondale, NY",3
+2,"Oakland Coliseum, Oakland, CA",7
+2,"RFK Stadium, Washington, DC",1
+2,"Rich Stadium, Orchard Park, NY",1
+2,"Richfield Coliseum, Richfield, OH",2
+2,"Sam Boyd Silver Bowl, Las Vegas, NV",3
+2,"Shoreline Amphitheater, Mountain View, CA",3
+2,Soldier,1
+2,"Soldiers Field, Chicago, IL",1
+2,"Star Lake Amphitheater, Burgettstown, PA",2
+2,"The Omni, Atlanta, GA",3
+2,"The Palace, Auburn Hills, MI",2
+2,"The Spectrum, Philadelphia, PA",3
+"Aarhus University","Aarhus, DK",1
+"Academy of Music","New York, NY",7
+"Adams Field House (U of Montana)","Missoula, MT",1
+"Aladdin Theater","Las Vegas, NV",3
+"Alameda County Coliseum","Oakland, CA",14
+"Alameda County Stadium","Oakland, CA",1
+"Alexandra Palace","London, XE",3
+"Alfond Arena (U of Maine)","Orono, ME",1
+"Allan Theater","Cleveland, OH",1
+"Alligator Alley Gum (U of Florida)","Gainesville, FL",1
+"Alpine Valley East","Troy, WI",4
+"Alpine Valley Music Theater","East Troy, WI",13
+"Alpine Valley Music Theatre","East Troy, WI",3
+"American University","Washington, DC",1
+"Anaheim Stadium","Anaheim, CA",1
+"Arizona State University","Tempe, AZ",1
+"Arlington Theater","Santa Barbara, CA",1
+"Arrowhead Stadium","Kansas City, MO",1
+"Assembly Center (Lousiana State U)","Baton Rouge, LA",1
+"Assembly Hall (Indiana U)","Bloomington, IN",1
+"Assembly Hall (U of Illinois)",Champaign,2
+"Assembly Hall (University of Illinois)","Champlain, IL",1
+"Athletic Center (Rutgers U)","New Brunswick, NJ",1
+Auditorium,"St. Paul, MN",1
+Auditorium,"West Palm Beach, FL",1
+"Auditorium Coliseum","Jacksonville, FL",1
+"Auditorium Theater","Chicago, IL",2
+"Auditorium Theatre","Chicago, IL",3
+"Auditorium Theatre","Chicago, ILL",1
+"Augusta Civic Center","Augusta, ME",2
+"Autzen Stadium","Eugene, OR",8
+"Autzen Stadium (U of Oregon)","Eugene, OR",2
+Avalon,"San Francisco, CA",1
+"Avalon Ballrom","San Francisco, CA",2
+"Bakersfield Civic Auditorium","Bakersfield, CA",1
+"Baltimore Civic Center","Baltimore, MD",3
+"Barton Hall (Cornell U)","Ithica, NY",3
+"Bayfront Center","St. Petersburg, FL",2
+"Beacon Theatre","New York, NY",2
+"Beat Club","Bremen, DE",1
+"Berkeley Community Theater","Berkeley, CA",16
+"Berkeley Community Theatre","Berkeley, CA",4
+"Berkeley Greek Theatre","Berkeley, CA",3
+"Bickershaw Festival","Wigan, UK",1
+"Blockbuster Desert Sky Pavillion","Phoenix, AZ",3
+"Blossom Music Center","Cuyahoga Falls, OH",2
+"Bob Marley Performing Arts Center","Montego Bay, XJ",1
+"Boise Pavillion","Boise, ID",1
+"Boreal Ridge Ski Resort",Donner,1
+"Boston Garden","Boston, MA",24
+"Boston Music Hail","Boston, MA",2
+"Boston Music Hall","Boston, MA",6
+"Boston Music Hall","Boston, MA.",3
+"Boston Music Mall","Boston, MA",3
+"Boston Tea Party","Boston, MA",1
+"Boutwell Auditorium","Birmingham, AL",2
+"Brendan Byrne Arena","East Rutheford, NJ",2
+"Brendan Byrne Arena","East Rutherford, NJ",12
+"Broome County Arena","Binghamton, NY",2
+"Buckeye Lake Music Center","Hebron, OH",3
+"Buckeye Music Center","Buckeye Lake, OH",1
+"COBO Arena","Detroit, MI",2
+"Cafe a Go Go","New York, NY",2
+"Cal Expo","Sacramento, CA",9
+"Cal Expo Amphitheater","Sacramento, CA",3
+"Cal Expo Ampitheatre","Sacramento, CA",6
+"Cal. State U. Dominguez Hills Soccer Field","Carson, CA",2
+"Calavaras County Fairgrounds",Angel,2
+"California Exposition Amphitheater","Sacramento, CA",4
+"Cameron Indoor Stadium","Duke U, Durham, NC",1
+"Cameron Indoor Stadium (Duke U)","Durham, NC",2
+"Cameron Indoor Stadium (Duke Univ.) ","Durham, NC",1
+"Campus Stadium (UC Santa Barbara)","Goleta, CA",2
+"Capital Center","Landover, MD",4
+"Capital Centre",Landover,1
+"Capital Centre","Landover, MD",17
+"Capitol Center","Landover, MD",1
+"Capitol Theater","Passaic, NJ",7
+"Capitol Theater","Port Chester, NY",3
+"Capitol Theatre","Passaic, NJ",3
+"Cardinal Stadium","Louisville, KY",1
+"Carolina Coliseum (U of South Carolina)","Columbia, SC",1
+"Carousel Ballroom","San Francisco, CA",1
+"Carrier Dome (Syracuse U)","Syracuse, NY",3
+"Carter Findley Stadium","Raleigh, NC",1
+Centrum,"Worcester, MA",1
+"Charlotte Coliseum","Charlotte, NC",8
+"Cincinnati Gardens","Cincinnati, OH",1
+"City Hall","Newcastle, UK",1
+"City Island","Harrisburg, PA",2
+"Civic Arena","Pittsburgh, PA",1
+"Civic Auditorium","Albuquerque, NM",1
+"Civic Auditorium","Omaha, NB",1
+"Civic Auditorium","San Jose, CA",1
+"Civic Auditorium","SanAntonio, TX",1
+"Civic Center","Baltimore, MD",2
+"Civic Center","Hartford, CT",3
+"Civic Center","Providence, RI",1
+"Civic Center","Roanoke, VA",3
+"Civic Center Arena","Springfield, MA",2
+"Civic Hall","Rotterdam, NL",1
+"Cleveland Music Hall","Cleveland, OH",3
+"Cleveland Public Hall","Cleveland, OH",1
+"Club Melk Weg","Amsterdam, XH",3
+"Cole Field House (U of Maryland)","College Park, MD",1
+Coliseum,"Charlotte, NC",1
+Coliseum,"Hampton, VA",3
+"Colt Park","Hartford, CT",1
+"Community War Memorial","Rochester, NY",1
+"Compton Terrace","Tempe, AZ",2
+"Compton Terrace Amphitheater","Tempe, AZ",5
+Concertgebouw,"Amsterdam, NL",1
+"Convention Center","Cleveland, OH",1
+"Copps Coliseum","Hamilton, ON",2
+"Cotterrell Gym (Colgate U)","Hamilton, NY",1
+"County Coliseum","El Paso, TX",1
+"Cow Palace","Daly City, CA",2
+"Crisler Arena","U. Of Michigan, Ann Arbor, MI",1
+"Crisler Arena (U. Of Michigan)","Ann Arbor, MI",1
+"Cumberland County Civic Center","Portland, ME",7
+"Curtis Hixon Convention Hall","Tampa, FL",4
+"Dallas Convention Center","Dallas, TX",1
+"Dane County Coliseum","Madison, WI",5
+"Deer Creek","Noblesville, IN",3
+"Deer Creek Amphitheater","Noblesville, IN",3
+"Deer Creek Ampitheatre","Noblesville, IN",2
+"Deer Creek Music Center","Noblesville, IN",3
+"Delta Center","Salt Lake City, UT",3
+"Denver Coliseum","Denver, CO",2
+"Des Moines Civic Center","Des Moines, IA",2
+"Deutsches Museum Halle","Munich, DE",1
+"Devore Field (Southwestern U)","Chula Vista, CA",1
+Dijon,FR,1
+"Dillon Gym","Princeton University, Princeton, NJ",1
+"Dillon Stadium","Hartford, CT",2
+"Dupont Gym","MIT, Cambridge, MA",1
+"Eagle's Auditorium","Seattle, WA",1
+"Edmundson Pavilion (U of Washington)","Seattle, WA",1
+"Electric Factory","Philadelphia, PA",1
+"Empire Pool","Wembley, UK",2
+"Events Center (U of Colorado)","Boulder, CO",1
+Fairgrounds,"Lille, FR",1
+"Fairgrounds Arena","Oklahoma City, OK",1
+"Felt Forum","Madison Square Garden, New York, NY",1
+"Fest Halle","Frankfurt, DE",1
+"Feyline Field","Tempe, AZ",1
+"Field House (Northern Illinois U)","De Kalb, IL",1
+"Field House (Rensselaer Polytechnic Institute)","Troy, NY",1
+"Field House (Seneca College)","Toronto, ON",1
+"Fiesta Hall (County Fairgrounds)","San Mateo, CA",1
+"Fillmore Auditorium","San Francisco, CA",4
+"Fillmore East","New York, NY",12
+"Fillmore West","San Francisco, CA",11
+"Five Seasons Center","Cedar Rapids, IA",1
+"Folsom Field","University of Colorado, Boulder, CO",1
+"Folsom Field (U of Colorado)","Boulder, CO",2
+"Ford Auditorium","Detroit, MI",1
+"Forum Theater","Copenhagen, XD",1
+"Fox Theater","Atlanta, GA",9
+"Fox Theater","St. Louis, MO",1
+"Fox Theatre","St. Louis, MO",4
+"Foxboro Stadium","Foxboro, MA",1
+"Franklin County Airport","Highgate, VT",1
+"Freedom Hall","Louisville, KY",2
+"Freedom Hall","Lousville, KY",2
+"Frost Amphitheater","Palo Alto, CA",1
+"Frost Amphitheater (Stanford U)","Palo Alto, CA",10
+"Frost Amphitheatre","Stanford University, Palo Alto, CA",1
+"Frost Amphitheatre (Stanford Univversity)","Palo Alto, CA",1
+"Frost Ampitheatre","Stanford, CA",1
+"Giant's Stadium","East Rutherford, NJ",2
+"Giants Stadium","East Rutherford, NJ",6
+"Giants Stadium (Meadowlands Sports Complex)","East Rutherford, NJ",4
+"Glen Helen Regional Park","Devore, CA",1
+"Glenns Falls Civic Center","Glenns Falls, NY",3
+"Golden Hall","San Diego, CA",6
+"Grand Center","Grand Rapids, MI",1
+"Grand Prix Racecourse","Watkins Glen, NY",2
+"Great American Music Hall","San Francisco, CA",1
+"Great Western Forum","Inglewood, CA",3
+"Great Western Forum","Los Angeles, CA",3
+"Greek Theater (U of California)","Berkeley, CA",21
+"Greek Theatre","U. Of California, Berkeley, CA",3
+"Greensboro Coliseum","Greensboro, NC",7
+"Gruga Halle","Essen, DE",1
+"Gruga Halle","Essen, XG",1
+Gym,"S.U.N.Y., Stony Brook, NY",2
+"HJK Convention Center","Oakland, CA",3
+"Hampton Coliseum","Hampton, VA",2
+"Hampton Roads Coliseum","Hampton, VA",13
+"Hara Arena","Dayton, OH",1
+"Harding Theatre","San Francisco, CA",1
+"Harpur College","Binghamton, NY",1
+"Hartford Civic Center","Hartford, CT",14
+"Henry J. Kaiser Auditorium","Oakland, CA",7
+"Henry J. Kaiser Convention Center","Oakland, CA",24
+"Hershey Park Stadium","Hershey, PA",1
+"Hile High Stadium","Denver, CO",1
+"Hill Auditorium","Ann Arbor, MI",2
+"Hofheinz Pavilion","Houston, TX",3
+"Hollywood Bowl","Hollywood, CA",1
+"Hollywood Bowl","Los Angeles, CA",1
+"Hollywood Palladium","Hollywood, CA",3
+"Horton Field House (Illinois State U)","Normal, IL",1
+"Hubert H. Humphrey Metrodome","Minniapolis, MN",1
+"Huntington Civic Center","Huntington, WV",1
+"International Amphiteater","Chicago, IL",1
+"International Amphitheater","Chicago, IL",1
+"Irvine Meadows","Irvine, CA",3
+"Irvine Meadows Amphitheater","Laguna Hills, CA",9
+"Irvine Meadows Ampitheatre","Laguna Hills, CA",3
+Istadium,"Stockholm, SE",1
+"JFK Stadium","Philadelphia, PA",1
+"Jahrhundert Halle","Frankfurt, DE",1
+"Jai-Alai Fronton","Miami, FL",3
+"Joe Louis Arena","Detroit, MI",1
+"John F. Kennedy Stadium","Philadelphia, PA",1
+"KQED Studios","San Francisco, CA",1
+"Kansas City Municipal Auditorium","Kansas City, MO",2
+"Kezar Stadium","San Francisco, CA",2
+"Kiel Auditorium","St. Louis, MO",4
+"Kingswood Music Theater","Toronto, ON",1
+"Kingswood Theater","Maple, ON",1
+"Knickerbocker Arena","Albany, NY",9
+"L.A. Memorial Coliseum","Los Angeles, CA",1
+"Labor Temple","Minneapolis, MN",1
+"Laguna Seca","Salinas, CA",3
+"Laguna Seca Raceway","Monterey, CA",2
+"Lakefront Arena (University of New Orleans)","New Orleans, LA",1
+"Lakeland Civic Center","Lakeland, FL",3
+"Lane Community College","Eugene, OR",1
+"Lindley Meadows (Golden Gate Park)","San Francisco, CA",1
+"Lloyd Noble Center (U of Oklahoma)","Norman, OK",1
+"Long Beach","Long Beach, CA",1
+"Long Beach Arena","Long Beach, CA",12
+"Los Angeles Sports Arena","Los Angeles, CA",7
+"Loyola College","Chicago, IL",1
+MIT,"Cambridge, MA",1
+"Madison Square Garden","New York City, NY",1
+"Madison Square Garden","New York, NY",46
+"Manhattan Center","New York, NY",2
+"Manor Downs","Austin, TX",5
+"Marin County Veteran's Auditorium","San Rafael, CA",6
+"Market Square Arena","Indianapolis, IN",2
+"Max Yasgur's Farm","Bethel, NY",1
+"McArthur Court (U of Oregon)","Eugene, OR",2
+"McGaw Memorial Hall","Northwestern U., Evanston, IL",1
+"McNichols Arena","Denver, CO",3
+"McNichols Sports Arena","Denver, CO",6
+"Memorial Auditorium","Dallas, TX",1
+"Memorial Auditorium","Utica, NY",2
+"Memorial Coliseum","Portland, OR",1
+"Memorial Coliseum (State Fairgrounds)","Jackson, MS",1
+"Memorial Coliseum (U of Alabama)","Tuscaloosa, AL",1
+"Memorial Hall","Kansas City, MO",2
+MemorialAuditorium,"Sacramento, CA",1
+"Merriweather Post Pavilion","Columbia, MD",6
+"Metropolitan Center","Minneapolis, MN",1
+"Metropolitan Sports Center","Bloomington, MN",1
+"Miami Arena","Miami, FL",6
+"Mill Valley Recreation Center","Mill Valley, CA",1
+"Milwaukee Auditorium","Milwaukee, WI",2
+"Mississippi River Festival","Edwardsville, IL",1
+"Monterey Performing Arts Center","Monterey, CA",1
+"Moody Coliseum (SMU)","Dallas, TX",1
+"Morgantown Civic Center","Morgantown, WV",1
+"Moscone Center","San Francisco, CA",1
+"Municipal Auditorium","Austin, TX",2
+"Municipal Auditorium","Eureka, CA",1
+"Music Mall","Cincinnati, OH",1
+Musikhalle,"Hamburg, DE",1
+"NBC Studios","New York, NY",4
+"Nashville Municipal Auditorium","Nashville, TN",2
+"Nassau Coliseum","Uniondale, NY",29
+"Nassau Veterans Memorial Coliseum","Uniondale , NY",1
+"Nassau Veterans Memorial Coliseum","Uniondale, NY",4
+"Nevada County Fairgrounds","Grass Valley, CA",1
+"Niagara Falls Convention Center","Niagara Falls, NY",1
+"Northrup Auditorium","Minneapolis, MN",1
+"Oakland Auditorium Arena","Oakland, CA",15
+"Oakland Coliseum","Oakland, CA",30
+"Oakland Coliseum Arena","Oakland, CA",9
+"Oakland Coliseum Stadium","Oakland, CA",2
+"Oakland-Alameda County Coliseum Arena","Oakland, CA",6
+"Oklahoma City Music Hall","Oklahoma City, OK",2
+"Old Renaissance Faire Grounds","Veneta, OR",1
+"Olympia Halle","Munich, XG",2
+"Olympia Theater","Paris, FR",2
+"Olympic Center","Lake Placid, NY",1
+"Omaha Auditorium","Omaha, NE",1
+"Omni Coliseum","Atlanta, GA",1
+"Onondaga County War Memorial","Syracuse, NY",2
+"Onondaga War Memorial Aud.","Syracuse, NY",1
+"Onondaga War Memorial Auditorium","Syracuse, NY",3
+"Oregon County Fair Site","Veneta, OR",1
+"Orlando Arena","Orlando, FL",4
+"Orpheum Theatre","San Francisco, CA",6
+"Oxford Plains Speedway","Oxford, ME",2
+P.N.E,"Coliseum, Vancouver, BC",1
+"P.N.E. Coliseum","Vancouver, BC",1
+"Palais Des Sports","Paris, FR",1
+"Palais Des Sports","Paris, XF",1
+"Paramount Northeast","Seattle, WA",1
+"Paramount Northwest","Seattle, WA",1
+"Paramount Northwest Theatre","Seattle, WA",2
+"Paramount Theater","Portland, OR",4
+"Paramount Theatre","Portland, OR",2
+"Park West Ski Resort","Salt Lake City, UT",2
+"Paterson State College","Paterson, NJ",1
+"Patrick Field House (U of Vermont)","Burlington, VT",2
+"Pauley Pavilion","U.C.L.A., Los Angeles, CA",1
+"Pauley Pavilion","UCLA, Los Angeles, CA",1
+"Pauley Pavilion (UCLA)","Los Angeles, CA",3
+"Pavilion (U Illinois At Chicago)","Chicago, IL",3
+"Performing Arts Center","Milwaukee, WI",2
+"Pershing Municipal Auditorium","Lincoln, NB",1
+"Philadelphia Civic Center","Philadelphia, PA",5
+"Philadelphia Spectrum","Philadelphia, PA",4
+"Pine Knob Music Theater","Clarkstown, MI",2
+"Pine Knob Music Theatre","Clarkston, MI",2
+"Pittsburg Civic Arena","Pittsburg, PA",1
+"Pittsburgh Civic Arena","Pittsburgh, PA",4
+"Playhouse Theater","Edinburgh, XS",1
+"Polo Field","Golden Gate Park, San Francisco, CA",1
+"Poplar Creek Pavilion","Poplar Creek, IL",2
+"Portland Memorial Coliseum","Portland, OR",4
+"Providence Civic Center","Providence, RI",16
+"Public Hall","Cleveland, OH",1
+"Queens College","New York, NY",1
+"RFK Stadium","Washington, DC",8
+"Raceway Park","Englishtown, NJ",1
+"Radio City Music Hall","New York, NY",8
+"Radio Luxembourg",LU,1
+"Rainbow Theater","London, XE",8
+"Rec Hall (Penn State U)","State College, PA",1
+"Recreation Hall (UC Davis)","Davis, CA",1
+"Red Rocks Amphitheater","Morrison, CO",19
+"Reno Centennial Coliseum","Reno, NV",1
+"Reunion Arena","Dallas, TX",1
+Rheinhalle,"Dusseldorf, DE",1
+"Rich Stadium","Buffalo, NY",1
+"Rich Stadium","Orchard Park, NY",3
+"Richfield Coliseum","Richfield, OH",11
+"Richmond Coliseum","Richmond, VA",4
+"River Bend Music Center","Cincinnati, OH",2
+"River Front Coliseum","Cincinatti, OH",1
+"Riverfront Arena","Cincinnati, OH",1
+"Riverport Amphitheatre","Maryland Heights, MO",2
+"Robert F. Kennedy Stadium","Washington, DC",4
+"Robertson Gym (UC Santa Barbara)","Goleta, CA",1
+"Rochester Silver Stadium","Rochester, NY",1
+"Roosevelt Stadium","Jersey City, NJ",6
+"Roscoe Maples Pavilion (Stanford U)","Palo Alto, CA",1
+"Rosemont Horizon","Chicago, IL",5
+"Rosemont Horizon","Chicago, Il",1
+"Rosemont Horizon","Rosemont, IL",7
+"Rubber Bowl","Akron, OH",1
+"Rupp Arena (Lexington Center)","Lexington, KY",1
+"Sacramento Memorial Auditorium","Sacramento, CA",1
+"Saenger Performing Arts Center","New Orleans, LA",3
+"Salt Palace","Salt Lake City, UT",2
+"Sam Boyd Silver Bowl","Las Vegas, NV",6
+"San Diego Sports Areana","San Diego, CA",2
+"San Diego Sports Arena","San Diego, CA",2
+"San Francisco Civic","San Francisco, CA",10
+"San Jose State U.","San Jose, CA",1
+"Sandstone Ampitheatre","Bonner Springs, KS",1
+"Sandstone Aphitheatre","Bonner Springs, KS",2
+"Santa Cruz County Fairgrounds","Watsonville, CA",1
+"Santa Fe Downs","Santa Fe, NM",3
+"Saratoga Performing Arts","Saratoga, NY",1
+"Saratoga Performing Arts Center","Saratoga Springs, NY",3
+"Saturday Night Live","NBC Studios, New York, NY",1
+"Seattle Center Arena","Seattle, WA",1
+"Seattle Center Coliseum","Seattle, WA",4
+"Seattle Memorial Stadium","Seattle, WA",2
+"Selland Arena","Fresno, CA",2
+Shoreline,"Mountain View, CA",6
+"Shoreline Amphitheater","Mountain View, CA",12
+"Shoreline Ampitheatre","Mountain View, CA",12
+"Shoreline Ampitheatre","Mountain View, MA",3
+"Shrine Auditorium","Los Angeles, CA",5
+"Shrine Exposition Hall","Los Angeles, CA",1
+"Silva Hall (Hult Center)","Eugene, OR",6
+"Silver Stadium","Rochester, NY",1
+"Soldier Field","Chicago, IL",1
+"Soldiers Field","Chicago, IL",4
+"Soldiers' and Sailors' Memorial Hall","Kansas City, KS",1
+"Son Et Lumiere Theater","Giza, XZ",3
+"Southern Star Amphitheater","Houston, TX",1
+"Spokane Coliseum","Spokane, WA",1
+"Sports Halle","Hamburg, DE",1
+"Sports Palace","Barcelona, XP",1
+"Sports and Music Center","Indianapolis, IN",1
+"Springer's Inn","Portland, OR",1
+"Springfield Civic Center","Springfield, MA",6
+"St. John's Arena (Ohio State Univ.)","Columbus, OH",1
+"St. Louis Arena","St. Louis, MO",1
+"St. Paul Civic Center","St. Paul, MN",5
+"Stabler Arena (Lehigh U)","Bethlehem, PA",1
+Stadium,"U.C.S.B., Santa Barbara, CA",1
+"Stadt Halle","Bremen, XG",1
+"Stanley Theater","Pittsburgh, PA",2
+"Stanley Theatre","Jersey City, NJ",3
+"Starlight Theater","Kansas City, MO",3
+"State Fair Coliseum","Indianapolis, IN",1
+"State Fairgrounds","Des Moines, IA",2
+"State Fairgrounds","Lewiston, ME",1
+"Stockton Civic Aud.","Stockton, CA",1
+"Sullivan Stadium","Foxboro, MA",1
+"Sullivan Stadium","Foxborough, MA",1
+"Summit Arena","Houston, TX",1
+"Sun Dome","Tampa, FL",1
+"Swing Auditorium","San Bernardino, CA",3
+"Tacoma Dome","Tacoma, WA",1
+"The Ark","Boston, MA",2
+"The Centrum","Worcester, MA",11
+"The Civic Arena","Pittsburgh, PA",2
+"The Dean Dome","University of NC, Chapel Hill, NC",2
+"The Fabulous Forum","Inglewood, CA",1
+"The Hippodrome","Paris, XF",1
+"The I.C.C.","Berlin, DE",2
+"The Matrix","San Francisco, CA",2
+"The Mecca","Milwaukee, WI",2
+"The Met Center","Bloomington, MN",1
+"The Metropolitan Sports Center","Minneapolis, MN",1
+"The Mosque","Richmond, VA",1
+"The Omni","Atlanta, GA",17
+"The Palace","Auburn Hills, MI",4
+"The Palace Theater","Waterbury, CT",2
+"The Palladium","New York, NY",5
+"The Sam Boyd Silver Bowl","Las Vegas, NV",2
+"The Scope","Norfolk, VA",1
+"The Spectrum","Philadelphia, PA",41
+"The Sportatorium","Hollywood, FL",4
+"The Strand Lyceum","London, UK",4
+"The Summit","Houston, TX",2
+"The Zenith","Paris, FR",2
+"Thelma Theatre","LA, CA",1
+"Thompson Arena (Dartmouth College)","Hanover, NH",1
+"Three Rivers Stadium","Pittsburgh, PA",1
+"Tivoii Gardens","Copenhagen, DK",1
+"Tivoii Theater","Copenhagen, DK",1
+"Tivoli Theater","Copenhagen, DK",1
+"Tower Theater","Upper Darby, PA",1
+"Tower Theatre","Upper Darby, PA",3
+"Town Park","Telluride, CO",2
+"Trooper's Hall","Los Angeles, CA",1
+"USAIR Arena","Landover, MD",2
+"USAir Arena","Landover, MD",1
+"Uni Dome (University of Northern Iowa)","Cedar Falls, IA",1
+"Universal Amphitheatre","Universal City, CA",3
+"University of Iowa","Iowa City, IA",2
+"University of Nevada","Reno, NV",1
+"University of New Mexico","Albuquerque, NM",1
+"University of Virginia","Charlottesville, VA",1
+Unknown,"Columbus, OH",1
+Unknown,"Corvalis, OR",1
+Unknown,"Las Vegas, NV",1
+Unknown,"Milwaukee, WI",1
+Unknown,"New Orleans, LA",1
+Unknown,"Newcastle, England",1
+Unknown,"Rochester, NY",1
+Unknown,"San Antonio, TX",1
+Unknown,"San Francisco, CA",1
+Unknown,"Wichita, KS",1
+"Uptown Theater","Chicago, IL",14
+"Utica Memorial Auditorium","Utica, NY",1
+"Vanderbilt University","Nashville, TN",1
+"Ventura County Fairgrounds","Ventura, CA",11
+"Veterans Memorial Auditorium","Columbus, OH",1
+"Veterans' Memorial Coliseum","New Haven, CT",9
+"Veterans' Memorial Coliseum ","Hartford, CT",1
+"Veterans' Memorial Hall","Colombus, OH",1
+"Virginia Polytechnic University","Blacksburg, VA",1
+"Walter Koebel Halle","Russelsheim, XG",1
+"War Memorial Aud.","Rochester, NY",1
+"War Memorial Auditorium","Buffalo, NY",4
+"War Memorial Auditorium","Rochester, NY",8
+"Warfield Theater","San Francisco, CA",21
+"Wembley Arena","London, UK",3
+"West High Auditorium","Anchorage, AK",3
+"William and Marry Hall","Williamsburg, VA",1
+"William and Mary College","Williamsburg, VA",2
+"William and Mary Hall","Williamsburg, VA",1
+"Winteriand Arena","San Francisco, CA",3
+Winterland,"San Francisco, CA",2
+"Winterland Arena","San Francisco, CA",34
+"World Music Theatre","Tinly Park, IL",3
+"Zoo Amphitheater","Oklahoma City, OK",3

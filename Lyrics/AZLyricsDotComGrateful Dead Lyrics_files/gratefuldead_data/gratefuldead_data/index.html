@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="UTF-8">
+        <title>728x90</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="Esurance">
+        <link rel="stylesheet" href="index_data/style.css">
+        <meta name="ad.size" content="width=728,height=90">
+        <script type="text/javascript">var clickTag = "http://www2.esurance.com/quote1200.html?ts=6&PromoID=%ppid=!%22"; </script>
+        <style>
+        .text {
+        display: none;
+        opacity: 0;
+        position: absolute;
+        color: #969088;
+        left: 495px;
+        top: 52px;
+        width: 81px;
+        height:27px;
+        font-size: 15px;
+        font-family: Helvetica Neue, Helvetica, "Arial", sans-serif;
+        font-weight: 300;
+        padding: 0px 10px;
+        z-index: 9999;
+        margin: 0;
+        background: #f4f4f4;
+        border: 1px solid #fff;
+        -webkit-border-radius: 3px;
+        border-radius: 3px;
+        -webkit-transition:all linear 0.5s;
+        /*-webkit-animation: blue3 12s;
+        -moz-animation: blue3 12s;
+        -o-animation: blue3 12s;
+        animation: blue3 12s*/
+        }
+        #cta{
+        height:26px;
+        overflow:hidden;
+        top:52px;
+        left:586px;
+        -webkit-transition:all linear 0.5s;
+        position:absolute; opacity: 0; z-index:999;
+        }
+        #cta img:hover{
+        margin-top:-26px;
+        }
+        </style>
+        
+    <script type="text/javascript">
+    
+      (function() {
+        var relegateNavigation = '';
+        var handleClickTagMessage = function(e) {
+          try {
+            var eventData = JSON.parse(e.data);
+          } catch (err) {
+            return;
+          }
+          if (eventData.isInitClickTag) {
+            if (eventData.clickTags) {
+              for (var i = 0; i < eventData.clickTags.length; i++) {
+                var clkTag = eventData.clickTags[i];
+                window[clkTag.name] = clkTag.url;
+              }
+            } else if (eventData.clickTag) {
+              window.clickTag = eventData.clickTag;
+            }
+            relegateNavigation = eventData.relegateNavigation;
+          }
+        };
+
+        if (open.call) {
+          window.open = function(open) {
+            return function(url, name, features) {
+              if (relegateNavigation === 'parent') {
+                var message = {'clickTag': url, 'isPostClickTag': true};
+                parent.postMessage(JSON.stringify(message), '*');
+              } else {
+                var args = [url, name];
+                if (features) {
+                  args.push(features);
+                }
+                open.apply(window, args);
+              }
+            };
+          }(window.open);
+        }
+
+        if (window.addEventListener) {
+          window.addEventListener(
+              'message', handleClickTagMessage, false);
+        } else {
+          window.attachEvent('onmessage', handleClickTagMessage);
+        }
+      })();
+    
+  </script></head>
+    <body>
+        <div id="maincontainer">
+            <a href="javascript:window.open(window.clickTag)">
+                <img id="img1" src="index_data/img1.png" alt="" style="opacity: 1;">
+                <img id="logo" src="index_data/logo.png" alt="" style="opacity: 1;">
+                <div id="box" style="left: 0px; opacity: 1;"></div>
+                <img id="safety_pays" src="index_data/safety_pays.png" alt="" style="left: 231px; opacity: 0;">
+                <img id="f2t1" src="index_data/f2t1.png" alt="" style="top: 13px; opacity: 1;">
+                <img id="f2t2" src="index_data/f2t2.png" alt="" style="top: 34px; opacity: 1;">
+                <img id="legal" src="index_data/legal.png" alt="" style="opacity: 1;">
+               </a>
+            <input name="txtZipCode" pattern="[0-9]*" maxlength="5" id="txtZipCode" class="text" placeholder="enter ZIP" style="display: block; opacity: 1;" type="numeric">
+            <a href="javascript:clickTag_Action(true)"><div id="cta" class="view-container" style="opacity: 1;"><img src="index_data/cta.png" style="cursor: pointer;"></div></a>
+            <a href="javascript:clickTag_Action(true)"></a>
+        </div>
+        
+        <script src="index_data/TweenLite.js" type="text/javascript" charset="utf-8"></script>
+        <script src="index_data/CSSPlugin.js" type="text/javascript" charset="utf-8"></script>
+        <script src="index_data/EasePack.js" type="text/javascript" charset="utf-8"></script>
+        <script src="index_data/index.js" type="text/javascript" charset="utf-8"></script>
+        
+    
+</body></html>

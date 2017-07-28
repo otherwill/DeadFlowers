@@ -1,0 +1,1 @@
+﻿cto_rtt = ''; (function(){document.cookie = 'cto_rtt=' + escape(cto_rtt) + '; path=/; expires=Tue, 08 Aug 2017 00:55:27 GMT; domain=azlyrics.com';})();
